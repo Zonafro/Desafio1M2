@@ -1,16 +1,15 @@
-
 html {
   box-sizing: border-box;
 }
 
 .status {
   display: flex;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: #444749;
-  width: 100%;    
+  width: 100%;
 }
 
-.cuadro{
+.cuadro {
   width: 35%;
   box-sizing: border-box;
 }
@@ -18,7 +17,7 @@ html {
 .amigo {
   display: flex;
   border-style: solid;
-  border-color: #E8EBE4;
+  border-color: #e8ebe4;
   border-width: thin;
   justify-content: space-around;
   width: 100%;
@@ -27,19 +26,19 @@ html {
 .imagenjp {
   width: 20%;
   height: 70%;
-  border-radius: 60%;  
+  border-radius: 60%;
 }
 
-.descrip { 
+.descrip {
   width: 66%;
 }
 
-.informacion h1{
+.informacion h1 {
   font-size: 16px;
 }
 
-.informacion p{
-  font-size: 16px; 
+.informacion p {
+  font-size: 16px;
 }
 
 .informacion {
@@ -52,7 +51,7 @@ html {
 .informacion img {
   width: 25%;
   height: 70%;
-  border-radius: 60%;  
+  border-radius: 60%;
 }
 
 .iconos {
@@ -60,34 +59,34 @@ html {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  color: #BEC1BB;
+  color: #bec1bb;
 }
 
 .cuidad {
-  color: #BEC1BB;
+  color: #bec1bb;
   font-size: 12px;
 }
 
 .botonnuevochat {
   display: flex;
-  border-color: #E8EBE4;
+  border-color: #e8ebe4;
   justify-content: center;
   padding: 5%;
 }
 
 .botonnuevochat :hover {
-  background-color: #CDC3E6;
+  background-color: #cdc3e6;
   color: yellow;
 }
 
 .botonnuevochat :focus {
-  background-color: #BEC1BB;
+  background-color: #bec1bb;
 }
 
 button {
   border: none;
-  background-color: #A491D2;
-  color: #E8EBE4;
+  background-color: #a491d2;
+  color: #e8ebe4;
   padding: 1% 8%;
 }
 
@@ -98,12 +97,12 @@ button {
   justify-content: center;
   border-style: solid;
   border-width: thin;
-  border-color: #E8EBE4;
-  background-color: #E8EBE4;
+  border-color: #e8ebe4;
+  background-color: #e8ebe4;
   width: 100%;
 }
 
-.cuadro2 img{
+.cuadro2 img {
   width: 250px;
 }
 
@@ -113,7 +112,8 @@ button {
   margin: 3%;
 }
 
-.invitaxat h1, p{
+.invitaxat h1,
+p {
   margin: auto;
   justify-content: center;
 }
